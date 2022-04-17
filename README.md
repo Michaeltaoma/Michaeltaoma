@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Reach me through <taoma0606@gmail.com>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaeltaoma)](https://github.com/anuraghazra/github-readme-stats)
